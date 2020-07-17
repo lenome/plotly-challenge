@@ -1,6 +1,6 @@
 # Plotly Challenge
 ## CWRU Data Analytics Bootcamp
-## Suraj Thyagaraj
+Suraj Thyagaraj
 
 ## Steps
 * Read JSON file into JavaScript to manipulate data
