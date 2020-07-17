@@ -2,11 +2,10 @@
 ## CWRU Data Analytics Bootcamp
 ## Suraj Thyagaraj
 
-## Objectives
-* Read a JSON file into JavaScript to manipulate data
-* Create a bar chart using Plotly that reads data from the JSON
-* Create a bubble chart using Plotly that reads data from the JSON
-* Create a gauge chart using Plotly that reads data from the JSON
+## Steps
+* Read JSON file into JavaScript to manipulate data
+* Create a dropdown item to let user select data ID
+* Create a bar chart, bubble chart and gauge chart based on selection using Plotly 
 
 ## Routes
 <b>/Bellybutton_Biodiversity/</b>
